@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>exercise 1 |x20|Gif_1.gif</item><!--0-->
+        <item>exercise 2 |60|Gif_2.gif</item><!--1-->
+        <item>exercise 3 |60|Gif_3.gif</item><!--2-->
+        <item>exercise 4 |60|Gif_4.gif</item><!--3-->
+        <item>exercise 5 |60|Gif_5.gif</item><!--4-->
+        <item>exercise 6 |60|Gif_6.gif</item><!--5-->
+        <item>exercise 7 |60|Gif_7.gif</item><!--6-->
+        <item>exercise 8 |60|Gif_8.gif</item><!--7-->
+    </string-array>
+    <string-array name="day_exercises">
+        <item>0,3,4,2,1,4,2,1,3</item> <!-- Day 1 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 2 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 3 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 4 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 5 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 6 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 7 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 8 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 9 -->
+        <item>0,3,4,2,1,4,2,1</item> <!-- Day 10 -->
+    </string-array>
+</resources>
